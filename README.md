@@ -1,5 +1,33 @@
 # -net-paper-1
 net paper 1
+Here are the main *storage devices* used in computers:
+
+---
+
+💾 *Types of Storage Devices*
+
+✅ 1. *Primary Storage* (Temporary)
+- *RAM (Random Access Memory)* – Fast, volatile memory for current tasks  
+- *ROM (Read Only Memory)* – Stores permanent system instructions (e.g., BIOS)
+
+---
+
+✅ 2. *Secondary Storage* (Permanent)
+- *Hard Disk Drive (HDD)* – Stores OS, files, applications  
+- *Solid State Drive (SSD)* – Faster and more reliable than HDD  
+- *Optical Discs* – CD, DVD, Blu-ray  
+- *USB Flash Drive* – Portable, plug-and-play storage  
+- *Memory Card (SD card)* – Used in phones, cameras, tablets  
+
+---
+
+✅ 3. *Cloud Storage*
+- *Google Drive, OneDrive, Dropbox*  
+- Stores data on internet servers; accessible from anywhere
+
+---
+
+Would you like a chart comparing them (speed, cost, capacity, etc.)?
 Here are the *main input devices* of a computer:
 
 ---
@@ -52,3 +80,4 @@ Here are the *main output devices* of a computer:
 ---
 
 Would you like a *chart of input vs output devices* in PDF or table form?
+
